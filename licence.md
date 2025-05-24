@@ -19,9 +19,7 @@
       LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
       OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
       THE SOFTWARE.</p>
-    <br>
     <hr>
-    <br>
     <h3>以下爲MIT許可證之漢語譯文，僅爲便利使用者理解之用。<bold>所有權利義務及法律解釋，概以英文原文為準。</bold></h3>
     <p>特此許可：凡取得本軟體及其相關文件檔案（以下簡稱「本軟體」）副本之人士，均可免費處置本軟體，不受任何限制。此權利包括但不限於使用、複製、修改、合併、出版、分發、再授權及／或販售本軟體之副本，並允許本軟體提供予之人士爲上述行爲，惟須符合以下條件：</p>
     <p>上述版權聲明及本許可聲明應包含於本軟體之所有副本或主要部分中。</p>
