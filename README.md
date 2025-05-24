@@ -2,7 +2,7 @@
 
 This work is open-source via MIT license.
 
-本作品依據 MIT License 授權開放原始碼。
+本作品依據 MIT 許可證授權開放原始碼。
 
 本作品はオープンソースであり、MIT ライセンスに基づいて公開されています。
 
